@@ -1,2 +1,25 @@
-# b41f0f0490212c96-cybersecurity-survey-and-feedb
-cybersecurity professionals waste hours on starting from a blank document every single time. This fixes that.  Fully editable: every field, color, and section customizable. Ready to use immediately — open, fill in your details, done.  ## What's Included  - Cybersecurity Survey And Feedback Collection — fully configured and ready to use - Fully edit
+# Cybersecurity Survey and Feedback Collection System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/3cI8wP4eP9Mw4pqeM4cZE1h)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/3cI8wP4eP9Mw4pqeM4cZE1h)
+
